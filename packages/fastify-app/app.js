@@ -1,3 +1,4 @@
+import "./instrumentation.js";
 import Fastify from "fastify";
 
 const fastify = Fastify({
